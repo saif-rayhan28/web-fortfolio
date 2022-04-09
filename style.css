@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+}
+H1{
+    font-size: 50PX;
+    font-family: 'Rubik Bubbles', cursive;
+}
+.name-highlight{
+    color: rgb(40, 153, 29);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+    
